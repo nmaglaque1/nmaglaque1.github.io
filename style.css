@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #FEE4CF;
+	color: blue;
+	font-family: 'Acme', sans-serif;
+}
+main {
+	padding: 1em;
+}
+h1 {
+	margin: 0 0 1em 0;
+	font-size: 3em;
+}
+p {
+	margin: 0 0 1em 0;
+}
